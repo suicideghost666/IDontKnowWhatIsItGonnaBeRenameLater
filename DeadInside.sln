@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeadInside.Domain", "RestApi\DeadInside.Domain.csproj", "{1DC7E130-552F-48F3-B924-58BBF3214DC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeadInside.API", "DeadInside.API\DeadInside.API.csproj", "{E5182E50-9454-4439-A562-7A0901F2451B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadInside.API", "DeadInside.API\DeadInside.API.csproj", "{E5182E50-9454-4439-A562-7A0901F2451B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeadInside.Infrastructure", "DeadInside.Infrastructure\DeadInside.Infrastructure.csproj", "{DF248A94-EFBF-42F0-83A7-6D4718E1BF7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadInside.Infrastructure", "DeadInside.Infrastructure\DeadInside.Infrastructure.csproj", "{DF248A94-EFBF-42F0-83A7-6D4718E1BF7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeadInside.Application", "DeadInside.Application\DeadInside.Application.csproj", "{257B90D2-12FC-42E3-B43B-4697A3580B4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadInside.Application", "DeadInside.Application\DeadInside.Application.csproj", "{257B90D2-12FC-42E3-B43B-4697A3580B4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeadInside.Domain", "DeadInside.Domain\DeadInside.Domain.csproj", "{BC71DE3A-8D94-48C9-A02B-6A8AE1604B8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1DC7E130-552F-48F3-B924-58BBF3214DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1DC7E130-552F-48F3-B924-58BBF3214DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1DC7E130-552F-48F3-B924-58BBF3214DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1DC7E130-552F-48F3-B924-58BBF3214DC1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E5182E50-9454-4439-A562-7A0901F2451B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E5182E50-9454-4439-A562-7A0901F2451B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5182E50-9454-4439-A562-7A0901F2451B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{257B90D2-12FC-42E3-B43B-4697A3580B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{257B90D2-12FC-42E3-B43B-4697A3580B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{257B90D2-12FC-42E3-B43B-4697A3580B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC71DE3A-8D94-48C9-A02B-6A8AE1604B8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC71DE3A-8D94-48C9-A02B-6A8AE1604B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC71DE3A-8D94-48C9-A02B-6A8AE1604B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC71DE3A-8D94-48C9-A02B-6A8AE1604B8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
