@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DC7E130-552F-48F3-B924-58BBF3214DC1}|RestApi\\DeadInsideApi.csproj|d:\\repos\\idontknowwhatisitgonnaberenamelater\\restapi\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1DC7E130-552F-48F3-B924-58BBF3214DC1}|RestApi\\DeadInsideApi.csproj|solutionrelative:restapi\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{E5182E50-9454-4439-A562-7A0901F2451B}|DeadInside.API\\DeadInside.API.csproj|d:\\repos\\idontknowwhatisitgonnaberenamelater\\deadinside.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5182E50-9454-4439-A562-7A0901F2451B}|DeadInside.API\\DeadInside.API.csproj|solutionrelative:deadinside.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DC7E130-552F-48F3-B924-58BBF3214DC1}|RestApi\\DeadInsideApi.csproj|d:\\repos\\idontknowwhatisitgonnaberenamelater\\restapi\\deadinsidelandingpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1DC7E130-552F-48F3-B924-58BBF3214DC1}|RestApi\\DeadInsideApi.csproj|solutionrelative:restapi\\deadinsidelandingpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E5182E50-9454-4439-A562-7A0901F2451B}|DeadInside.API\\DeadInside.API.csproj|d:\\repos\\idontknowwhatisitgonnaberenamelater\\deadinside.api\\deadinside.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E5182E50-9454-4439-A562-7A0901F2451B}|DeadInside.API\\DeadInside.API.csproj|solutionrelative:deadinside.api\\deadinside.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DC7E130-552F-48F3-B924-58BBF3214DC1}|RestApi\\DeadInsideApi.csproj|d:\\repos\\idontknowwhatisitgonnaberenamelater\\restapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1DC7E130-552F-48F3-B924-58BBF3214DC1}|RestApi\\DeadInsideApi.csproj|solutionrelative:restapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1DC7E130-552F-48F3-B924-58BBF3214DC1}|RestApi\\DeadInside.Domain.csproj|d:\\repos\\idontknowwhatisitgonnaberenamelater\\restapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DC7E130-552F-48F3-B924-58BBF3214DC1}|RestApi\\DeadInside.Domain.csproj|solutionrelative:restapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DC7E130-552F-48F3-B924-58BBF3214DC1}|RestApi\\DeadInsideApi.csproj|d:\\repos\\idontknowwhatisitgonnaberenamelater\\restapi\\restapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{1DC7E130-552F-48F3-B924-58BBF3214DC1}|RestApi\\DeadInsideApi.csproj|solutionrelative:restapi\\restapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DC7E130-552F-48F3-B924-58BBF3214DC1}|RestApi\\DeadInsideApi.csproj|d:\\repos\\idontknowwhatisitgonnaberenamelater\\restapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DC7E130-552F-48F3-B924-58BBF3214DC1}|RestApi\\DeadInsideApi.csproj|solutionrelative:restapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DC7E130-552F-48F3-B924-58BBF3214DC1}|RestApi\\DeadInsideApi.csproj|d:\\repos\\idontknowwhatisitgonnaberenamelater\\restapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1DC7E130-552F-48F3-B924-58BBF3214DC1}|RestApi\\DeadInsideApi.csproj|solutionrelative:restapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DC7E130-552F-48F3-B924-58BBF3214DC1}|RestApi\\DeadInsideApi.csproj|d:\\repos\\idontknowwhatisitgonnaberenamelater\\restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DC7E130-552F-48F3-B924-58BBF3214DC1}|RestApi\\DeadInsideApi.csproj|solutionrelative:restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DC7E130-552F-48F3-B924-58BBF3214DC1}|RestApi\\DeadInside.Domain.csproj|d:\\repos\\idontknowwhatisitgonnaberenamelater\\restapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DC7E130-552F-48F3-B924-58BBF3214DC1}|RestApi\\DeadInside.Domain.csproj|solutionrelative:restapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,32 +34,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StyleSheet.css",
-              "DocumentMoniker": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\RestApi\\StyleSheet.css",
-              "RelativeDocumentMoniker": "RestApi\\StyleSheet.css",
-              "ToolTip": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\RestApi\\StyleSheet.css",
-              "RelativeToolTip": "RestApi\\StyleSheet.css",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAACIAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-11T14:48:56.587Z",
+              "DocumentIndex": 1,
+              "Title": "DeadInside.API",
+              "DocumentMoniker": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\DeadInside.API\\DeadInside.API.csproj",
+              "RelativeDocumentMoniker": "DeadInside.API\\DeadInside.API.csproj",
+              "ToolTip": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\DeadInside.API\\DeadInside.API.csproj",
+              "RelativeToolTip": "DeadInside.API\\DeadInside.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T13:03:42.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DeadInsideLandingPage.html",
-              "DocumentMoniker": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\RestApi\\DeadInsideLandingPage.html",
-              "RelativeDocumentMoniker": "RestApi\\DeadInsideLandingPage.html",
-              "ToolTip": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\RestApi\\DeadInsideLandingPage.html",
-              "RelativeToolTip": "RestApi\\DeadInsideLandingPage.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-07-11T14:43:04.909Z"
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\DeadInside.API\\Program.cs",
+              "RelativeDocumentMoniker": "DeadInside.API\\Program.cs",
+              "ToolTip": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\DeadInside.API\\Program.cs*",
+              "RelativeToolTip": "DeadInside.API\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:45:39.99Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\RestApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "RestApi\\Properties\\launchSettings.json",
@@ -79,23 +67,12 @@
               "RelativeToolTip": "RestApi\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-11T09:56:23.653Z"
+              "WhenOpened": "2024-07-11T09:56:23.653Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RestApi.http",
-              "DocumentMoniker": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\RestApi\\RestApi.http",
-              "RelativeDocumentMoniker": "RestApi\\RestApi.http",
-              "ToolTip": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\RestApi\\RestApi.http",
-              "RelativeToolTip": "RestApi\\RestApi.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-11T09:56:03.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\RestApi\\appsettings.json",
               "RelativeDocumentMoniker": "RestApi\\appsettings.json",
@@ -103,31 +80,8 @@
               "RelativeToolTip": "RestApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-11T09:55:59.436Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\RestApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "RestApi\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\RestApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "RestApi\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T09:25:44.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\RestApi\\Program.cs",
-              "RelativeDocumentMoniker": "RestApi\\Program.cs",
-              "ToolTip": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\RestApi\\Program.cs",
-              "RelativeToolTip": "RestApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T09:10:07.292Z"
+              "WhenOpened": "2024-07-11T09:55:59.436Z",
+              "EditorCaption": ""
             }
           ]
         }
