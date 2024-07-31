@@ -6,15 +6,59 @@
     <link rel="StyleSheet" href="StyleSheet.css">
 </head>
 <body>
+    
     <header> 
         ghoul.
     </header>
     <article>
-        <h1>
+        <canvas  class="fix-canvas" id="ex">Update browser</canvas>
+        <script>
+            var ex = document.getElementById("ex"),
+                ctx = ex.getContext('2d');
+            var w = 74.5;
+            var h = 77.375;
+            var y = 0;
+            var x = w;
+            ex.width = window.screen.availWidth;
+            ex.height = 619;
+            function drawChessLine(x, y, w, h, reverse) {
+                for (i = 0; i < 8; i++) {
+                    if (i % 2) {
+                        if (reverse) {
+                            ctx.fillStyle = "white";
+                        } else { 
+                            ctx.fillStyle = "black";
+                        }
+                    }
+                    else {
+                        if (reverse) {
+                            ctx.fillStyle = "black"
+                        } else {
+                            ctx.fillStyle = "white";
+                        }
+                    }
+                    ctx.fillRect(x, y, w, h);
+                    y += h;
+                }
+            }
+            //ctx.fillRect(74.5, 0, ex.width, ex.height);
+            //ctx.fillRect(0, y, w, h);
+            //ctx.fillRect(w, y, w, h);
+            
+            ctx.fillStyle = "black";
+            y = 0;
+            drawChessLine(0, y, w, h, false)
+            drawChessLine(x, y, w, h, true);
+            drawChessLine(ex.width - 197, y, w, h, true);
+            drawChessLine(ex.width - 122, y, w, h, false );
+            
+        </script>
+        <h1></h1>
+        <h1 class="marg">   
             It's not me that's wrong, it's the whole world that's wrong.
         </h1>
         <footer>
-            <p>© Misha is GAY</p>
+            <p>© Nobody cares about you</p>
         </footer>
     </article>
 </body>
