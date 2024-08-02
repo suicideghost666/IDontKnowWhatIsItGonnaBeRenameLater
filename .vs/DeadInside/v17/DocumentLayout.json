@@ -43,7 +43,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DeadInside.Infrastructure",
+              "Title": "DeadInside.Infrastructure.csproj",
               "DocumentMoniker": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\DeadInside.Infrastructure\\DeadInside.Infrastructure.csproj",
               "RelativeDocumentMoniker": "DeadInside.Infrastructure\\DeadInside.Infrastructure.csproj",
               "ToolTip": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\DeadInside.Infrastructure\\DeadInside.Infrastructure.csproj",
@@ -98,7 +98,6 @@
               "RelativeDocumentMoniker": "RestApi\\Properties\\launchSettings.json",
               "ToolTip": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\RestApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "RestApi\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-11T09:56:23.653Z"
             },
@@ -110,7 +109,6 @@
               "RelativeDocumentMoniker": "RestApi\\appsettings.json",
               "ToolTip": "D:\\repos\\IDontKnowWhatIsItGonnaBeRenameLater\\RestApi\\appsettings.json",
               "RelativeToolTip": "RestApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-11T09:55:59.436Z"
             }
